@@ -1,0 +1,55 @@
+/* Light - وزن 300 */
+@font-face {
+  font-family: 'Kalame';
+  src: url('Assets/fonts/Kalameh-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Regular - وزن 400 */
+@font-face {
+  font-family: 'Kalame';
+  src: url('Assets/fonts/Kalameh_Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Medium - وزن 500 */
+@font-face {
+  font-family: 'Kalame';
+  src: url('Assets/fonts/Kalameh-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* SemiBold - وزن 600 */
+@font-face {
+  font-family: 'Kalame';
+  src: url('Assets/fonts/Kalameh-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* Bold - وزن 700 */
+@font-face {
+  font-family: 'Kalame';
+  src: url('Assets/fonts/Kalameh_Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* ExtraBold - وزن 800 */
+@font-face {
+  font-family: 'Kalame';
+  src: url('Assets/fonts/Kalameh-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* Black - وزن 900 */
+@font-face {
+  font-family: 'Kalame';
+  src: url('Assets/fonts/Kalameh_Black.ttf') format('truetype'), ;
+  font-weight: 900;
+  font-style: normal;
+}
