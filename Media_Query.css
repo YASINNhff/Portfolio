@@ -21,7 +21,7 @@
         }
         .mobile_header{
             opacity: 1;
-            width: 27rem;
+            width: 26.5rem;
             >a{
                 margin: 0 15px;
             }
@@ -53,10 +53,10 @@
             position: absolute;
             left: 50%;      
             transform: translateX(-50%);
-            top: -3rem;
+            top: -5rem;
           }
           .about_me_items{
-            scale: 0.84;
+            scale: 0.7;
             margin-left: 10px;
           }
           .about_me_Picture{
@@ -70,6 +70,12 @@
           }
           .Footer{
             margin-top: 320px;
+          }
+          .skills_items{
+            scale: 0.85;
+          }
+          .services_section_items{
+            right: 2.5%;
           }
 }
 @media screen and (width >= 576px){
@@ -229,6 +235,9 @@ display: flex;
 
             margin-top: 300px;
             left: 0%;
+  }
+  .about_me_title{
+    top: 10%;
   }
 }
 @media screen and (width >= 1200px){

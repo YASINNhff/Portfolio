@@ -173,7 +173,7 @@ transition: var(--transition);
   color: var(--text-primary);
 }
 .Skill_Button:hover{
-  color: var(--background-color);
+  >a{color: var(--background-color);}
 }
 .Hero_scroll_svg{
   display: flex;
