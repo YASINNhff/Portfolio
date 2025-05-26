@@ -43,6 +43,7 @@
             text-align: center;
             position: relative;
             right: 10%;
+            scale: 0.9;
           >p{
             margin-bottom: 1rem;
             color: var(--text-secondary);
@@ -76,6 +77,13 @@
           }
           .services_section_items{
             right: 2.5%;
+          }
+          .Hero_Social_Icons{
+            margin-right: 1rem;
+          }
+          .contact_section{
+          right: 0%;
+          scale: 0.95;
           }
 }
 @media screen and (width >= 576px){
