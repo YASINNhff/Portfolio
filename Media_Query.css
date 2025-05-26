@@ -22,6 +22,8 @@
         .mobile_header{
             opacity: 1;
             width: 26.5rem;
+            scale: 0.9;
+            transform: translateX(-233px);
             >a{
                 margin: 0 15px;
             }
